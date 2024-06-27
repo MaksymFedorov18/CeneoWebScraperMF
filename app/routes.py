@@ -102,7 +102,7 @@ def extract():
         recommendation_distribution.plot.pie(
           labels=["Recommend", "Not recommend", "Indifferent"],
           label="",
-          colors=["forestgreen", "crimson", "silver"],
+          colors=["green", "red", "whitesmoke"],
           autopct=lambda l: "{:1.1f}%".format(l) if l else ""
         )
         plt.title(f"Recommendations shares for {product_name}")

@@ -1,0 +1,98 @@
+[
+    {
+        "opinion_id": "14091979",
+        "author": "m...y",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "jakość adekwentna do ceny",
+            "en": "quality adequate to the price"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 2,
+        "publish_date": "2021-02-26 22:44:16",
+        "purchase_date": "2021-03-10 20:49:45"
+    },
+    {
+        "opinion_id": "14254661",
+        "author": "b...i",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "OK",
+            "en": "APPROX"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 1,
+        "publish_date": "2021-04-04 12:23:17",
+        "purchase_date": "2021-04-08 14:26:07"
+    },
+    {
+        "opinion_id": "18002589",
+        "author": "Kamil",
+        "recommendation": null,
+        "score": 0.6,
+        "content": {
+            "pl": "Mały, poręczny i robi zdjęcia oraz filmy. Niestety jakość zdjęć kiepska, a filmy odtwarza bez głosu (NIE MA WBUDOWANEGO GŁOŚNICZKA). Dla dziecka na początek może być, aczkolwiek lepiej kupić używaną komórkę - zdjęcia o niebo lepsze :)",
+            "en": "Small, handy and takes photos and videos. Unfortunately, the quality of the photos is poor and the videos play without sound (NO BUILT-IN SPEAKER). It may be good for a child to start with, but it's better to buy a used cell phone - the photos are much better :)"
+        },
+        "pros": {
+            "pl": [
+                "funkcjonalność",
+                "szybkość działania"
+            ],
+            "en": [
+                "functionality",
+                "speed of operation"
+            ]
+        },
+        "cons": {
+            "pl": [
+                "jakość zdjęć"
+            ],
+            "en": [
+                "photo quality"
+            ]
+        },
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": null,
+        "purchase_date": "2023-10-15 16:42:02"
+    },
+    {
+        "opinion_id": "16082102",
+        "author": "j...n",
+        "recommendation": false,
+        "score": 0.2,
+        "content": {
+            "pl": "Kiepska jakość zdjęć mimo ustawionych różnych istniejących opcji.Nadaje się bardziej jako zabawka dla dzieci",
+            "en": "Poor quality of photos despite various existing options. It is more suitable as a toy for children"
+        },
+        "pros": {
+            "pl": [
+                "funkcjonalność",
+                "szybkość działania"
+            ],
+            "en": [
+                "functionality",
+                "speed of operation"
+            ]
+        },
+        "cons": {
+            "pl": [
+                "jakość zdjęć"
+            ],
+            "en": [
+                "photo quality"
+            ]
+        },
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2022-05-04 19:31:08",
+        "purchase_date": "2022-05-13 14:43:16"
+    }
+]
