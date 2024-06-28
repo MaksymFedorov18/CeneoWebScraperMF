@@ -1,8 +1,10 @@
 {% extends "base.html" %}
 {% block content %}
-  <p class="section__description">This is {{ product_id }} product file</p>
-  <a type="button" href="{{ url_for('product', product_id=product_id) }}" class="btn btn-warning">Opinions</a>
-  <div class="container"> 
+  <div class="container">
+    <p class="section__description text-center">This is {{ product_id }} product file</p>
+    <div class="d-flex justify-content-center mb-3">
+      <a type="button" href="{{ url_for('product', product_id=product_id) }}" class="btn btn-warning">Opinions</a>
+    </div>
     <div class="row">
       <div class="col-6">
         <img src="{{ url_for('static', filename='charts/' + product_id + '_score.png') }}" class="img-fluid" alt="Histogram of rates">
@@ -13,3 +15,4 @@
     </div>
   </div>
 {% endblock %}
+

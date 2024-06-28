@@ -1,0 +1,50 @@
+[
+    {
+        "opinion_id": "2129195",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "5,0/5",
+            "en": "5.0/5"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": null,
+        "purchase_date": "2013-06-30 22:00:16"
+    },
+    {
+        "opinion_id": "300843",
+        "author": "Użytkownik Ceneo",
+        "recommendation": false,
+        "score": 0.2,
+        "content": {
+            "pl": "Tonsil zawsze był dla mnie synonimem luksusu w świecie audio, dlatego też jak wiele lat temu w końcu stać mnie było na zakup głośników, wybór był oczywisty (oczywiście mocno zawężony posiadanym budżetem). \rJako młody chłopak szukałem kolumn, które będą w stanie rozbujać domową imprezkę. I jako takie sprawują się znakomicie, są o wiele przy tym subelniejsze od Altusów.\rCóż, z wiekiem zmieniają się oczekiwania od sprzętu i chciałoby się mieć coś wiecej. A tutaj już nie jest tak wesoło.\rBas jest dobry, o ile moco wysterujemy kolumny, choć nie musi się to już podobać sąsiadom. Niestety nie ma on tej przyjemnej głębi i ciepła. Górne pasmo wogóle nie istnieje... Jedynym argumentem na obronę Soundfinderów jest przystępna cena oraz brak funduszy na lepszy sprzęt, ale jak się nie ma co się lubi...",
+            "en": "Tonsil has always been synonymous with luxury in the audio world for me, so when I finally could afford to buy speakers many years ago, the choice was obvious (of course, significantly limited by my budget). \rAs a young boy, I was looking for loudspeakers that would be able to rock a house party. And as such, they work great, and are much more subtle than the Altus.\rWell, with age, expectations from equipment change and we would like to have something more. And it's not so fun here.\rThe bass is good as long as we drive the speakers hard, although the neighbors don't have to like it. Unfortunately, it does not have this pleasant depth and warmth. The upper range does not exist at all... The only argument in defense of Soundfinders is the affordable price and lack of funds for better equipment, but if you don't have what you like..."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": null,
+        "purchase_date": "2009-03-05 22:41:40"
+    },
+    {
+        "opinion_id": "1584710",
+        "author": "Użytkownik Ceneo",
+        "recommendation": false,
+        "score": 0.4,
+        "content": {
+            "pl": "Prezentowane kolumny to słaby produkt. O ile moc jest w miarę wystarczająca, to co do jakości mam zastrzeżenia. O ile tony wysokie są wystarczające, to wyraźnie brakuje tonów niskich. Podsumowując, nie polecam tych kolumn.",
+            "en": "The presented speakers are a poor product. While the power is quite sufficient, I have reservations about the quality. While the high tones are sufficient, the low tones are clearly lacking. To sum up, I do not recommend these speakers."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 3,
+        "publish_date": null,
+        "purchase_date": "2010-01-31 17:27:57"
+    }
+]
